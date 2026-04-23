@@ -1,0 +1,6 @@
+{
+  "name": "Blackfox Cashout Validator",
+  "description": "A discrepancy checker that matches uploaded Silverware data against Blackfox cashout data, highlighting variations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
